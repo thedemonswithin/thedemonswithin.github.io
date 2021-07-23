@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": “A43K86JR8F.com.bpcbt.rnd.MobileBanking",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
