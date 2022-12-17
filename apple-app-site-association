@@ -3,8 +3,10 @@
     "apps": [],
     "details": [
       {
-        "appID": "A43K86JR8F.com.bpcbt.rnd.MobileBanking",
-        "paths": ["/rb/web/pages/dynop*"]
+        "appID": "ND4GF58L8N.io.weera.app",
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
