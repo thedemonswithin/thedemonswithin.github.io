@@ -1,11 +1,30 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
         "appID": "ND4GF58L8N.io.weera.app",
-        "paths": [
-          "*"
+        "components": [
+          {
+            "/": "/post/?*"
+          },
+          {
+            "/": "/tasks/?*"
+          },
+          {
+            "/": "/profile/?*"
+          },
+          {
+            "/": "/",
+            "?": {
+              "relativeInviteCode": "?*"
+            }
+          },
+          {
+            "/": "",
+            "?": {
+              "relativeInviteCode": "?*"
+            }
+          }
         ]
       }
     ]
