@@ -1,15 +1,20 @@
 {
-  "applinks": {
-    "details": [
-      {
-        "appID":"1460027695.com.diners.club.payclub.movil.app",
-        "components": [
-          {
-            "/" : "/leTa/*"
-          }
-        ]
-      }
-    ]
-  }
+   "appclips":{
+      "apps":[
+         "1460027695.com.diners.club.payclub.movil.app.Clip"
+      ]
+   },
+   "applinks":{
+      "apps":[
+         
+      ],
+      "details":[
+         {
+            "paths":[
+               "/leTa/*"
+            ],
+            "appID":"1460027695.com.diners.club.payclub.movil.app"
+         }
+      ]
+   }
 }
-
