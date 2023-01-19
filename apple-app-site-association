@@ -2,10 +2,10 @@
   "applinks": {
     "details": [
       {
-        "appID": "T8AM68XTYQ.com.diners.club.payclub.movil.app",
+        "appID":"1460027695.com.diners.club.payclub.movil.app",
         "components": [
           {
-            "/": "*"
+            "/leTa/*"
           }
         ]
       }
