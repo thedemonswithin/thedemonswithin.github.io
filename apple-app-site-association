@@ -2,31 +2,14 @@
   "applinks": {
     "details": [
       {
-        "appID": "ND4GF58L8N.io.weera.app",
+        "appID": "T8AM68XTYQ.com.diners.club.payclub.movil.app",
         "components": [
           {
-            "/": "/post/?*"
-          },
-          {
-            "/": "/tasks/?*"
-          },
-          {
-            "/": "/profile/?*"
-          },
-          {
-            "/": "/",
-            "?": {
-              "relativeInviteCode": "?*"
-            }
-          },
-          {
-            "/": "",
-            "?": {
-              "relativeInviteCode": "?*"
-            }
+            "/": "*"
           }
         ]
       }
     ]
   }
 }
+
