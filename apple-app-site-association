@@ -1,20 +1,18 @@
 {
-   "appclips":{
-      "apps":[
-         "1460027695.com.diners.club.payclub.movil.app.Clip"
-      ]
-   },
-   "applinks":{
-      "apps":[
-         
-      ],
-      "details":[
-         {
-            "paths":[
-               "/leTa/*"
-            ],
-            "appID":"1460027695.com.diners.club.payclub.movil.app"
-         }
-      ]
-   }
+    "applinks": {
+        "details": [
+            {
+                "appID": "T259G28K6J.com.bpcbt.marketplace.demo.buyer",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "T259G28K6J.com.bpcbt.marketplace.ardb.buyer",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
 }
