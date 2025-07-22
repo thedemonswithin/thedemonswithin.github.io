@@ -1,18 +1,17 @@
 {
-    "applinks": {
-        "details": [
-            {
-                "appID": "T259G28K6J.com.bpcbt.marketplace.demo.buyer",
-                "paths": [
-                    "*"
-                ]
-            },
-            {
-                "appID": "T259G28K6J.com.bpcbt.marketplace.ardb.buyer",
-                "paths": [
-                    "*"
-                ]
-            }
-        ]
-    }
+   "applinks":{
+      "details":[
+         {
+            "appIDs":[
+               "T259G28K6J.com.bpcbt.marketplace.demo.buyer",
+               "T259G28K6J.com.bpcbt.marketplace.ardb.buyer"
+            ],
+            "components":[
+               {
+                  "/":"/item/*"
+               }
+            ]
+         }
+      ]
+   }
 }
