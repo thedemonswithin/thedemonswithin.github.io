@@ -11,6 +11,17 @@
                   "/":"/item/*"
                }
             ]
+         },
+         {
+            "appIDs":[
+               "T259G28K6J.com.bpcbt.marketplace.demo.courier"
+            ],
+            "components":[
+               {
+                  "/":"/auth/add-employee",
+                  "?":{ "profileType":"COURIER" }
+               }
+            ]
          }
       ]
    }
